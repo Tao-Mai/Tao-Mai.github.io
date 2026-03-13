@@ -55,6 +55,6 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-### Education {: #education}
+<h3 id="education">Education</h3>
 * **Tsinghua University**, 2025 - Present
 * **Guangdong University of Technology**, 2019 - 2023
