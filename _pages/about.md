@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 <h2 id="About">About Me</h2>
-======
-I am a first-year Master's student in the Department of Computer Science at **Tsinghua University**. \
-Before joining Tsinghua, I received my B.Eng. degree from **Guangdong University of Technology** in 2023. \
+I am a first-year Master's student in the Department of Computer Science at **Tsinghua University**. Before joining Tsinghua, I received my B.Eng. degree from **Guangdong University of Technology** in 2023. \
 My research interests primarily lie in Computer Graphics.
 <h2 id="Publications">Publications</h2>
 无
